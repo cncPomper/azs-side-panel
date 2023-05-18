@@ -1,0 +1,36 @@
+.player {
+  font-size: 34px;
+  /* float: left; */
+  margin-bottom: 5px;
+  text-align: center;
+  color: rgb(246, 238, 238);
+  overflow: auto;
+  background-color: rgb(51, 99, 140);
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+/* .player::after {
+  clear: both;
+} */
+
+.num {
+  float: left;
+  width: 100px;
+}
+.name {
+  float: left;
+  width: 240px;
+}
+.surname {
+  float: left;
+  width: 360px;
+}
+.exclusions {
+  float: left;
+  width: 60px;
+}
+.score {
+  float: left;
+  width: 60px;
+}

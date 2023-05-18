@@ -1,0 +1,154 @@
+{
+  "score": {
+    "score_home": 0,
+    "exc_home": 0,
+    "to_home": 2,
+    "score_guests": 0,
+    "exc_guests": 0,
+    "to_guests": 2,
+    "time_minutes": 0,
+    "time_seconds": 0,
+    "action_time": 30,
+    "quarter": 4
+  },
+  "players_home": [
+    {
+      "id": 0,
+      "num": 1,
+      "name": "Bartłomiej",
+      "surname": "Benda",
+      "exclusions": 0,
+      "goals": 0
+    },
+    {
+      "id": 1,
+      "num": 2,
+      "name": "NoweImię",
+      "surname": "NoweNazwisko",
+      "goals": "5",
+      "exclusions": "2"
+    },
+    {
+      "id": 2,
+      "num": 3,
+      "name": "Piotr",
+      "surname": "Idzi",
+      "exclusions": 0,
+      "goals": 3
+    },
+    {
+      "id": 3,
+      "num": 4,
+      "name": "Piotr",
+      "surname": "Idzi",
+      "exclusions": 0,
+      "goals": 3
+    },
+    {
+      "id": 4,
+      "num": 5,
+      "name": "Przemysław",
+      "surname": "Rudziński",
+      "exclusions": 1,
+      "goals": 2
+    },
+    {
+      "id": 5,
+      "num": 6,
+      "name": "Kiril",
+      "surname": "Tumoian",
+      "goals": "1",
+      "exclusions": 1
+    },
+    {
+      "id": 6,
+      "num": 7,
+      "name": "Brak",
+      "surname": "BrakNazwiska",
+      "goals": "90",
+      "exclusions": "66"
+    },
+    {
+      "id": 7,
+      "num": 8,
+      "name": "Nowy",
+      "surname": "Kolo",
+      "goals": "100",
+      "exclusions": 1
+    },
+    {
+      "id": 8,
+      "num": 9,
+      "name": "Piotr",
+      "surname": "Kitłowski",
+      "exclusions": 1,
+      "goals": 5
+    },
+    {
+      "id": 9,
+      "num": 10,
+      "name": "Krzysztof",
+      "surname": "Kiljan",
+      "goals": "-1",
+      "exclusions": "50"
+    },
+    {
+      "id": 10,
+      "num": 11,
+      "name": "Piotr",
+      "surname": "Kitłowski",
+      "exclusions": 0,
+      "goals": 1
+    },
+    {
+      "id": 11,
+      "num": 12,
+      "name": "Bartosz",
+      "surname": "Borkowski",
+      "exclusions": 0,
+      "goals": 0
+    },
+    {
+      "id": 12,
+      "num": 13,
+      "name": "Elvis",
+      "surname": "Borecki",
+      "exclusions": 0,
+      "goals": 0
+    }
+  ],
+  "players_guests": [
+    {
+      "id": 13,
+      "num": 1,
+      "name": "Maciej",
+      "surname": "Borkowski",
+      "exclusions": 1,
+      "goals": 0
+    },
+    {
+      "id": 14,
+      "num": 2,
+      "name": "Jan",
+      "surname": "Wiśniewski",
+      "goals": "60",
+      "exclusions": 0
+    },
+    {
+      "id": 15,
+      "num": 3,
+      "name": "Paweł",
+      "surname": "Nizioł",
+      "goals": "100",
+      "exclusions": 2
+    },
+    {
+      "id": 3,
+      "num": 4,
+      "name": "Daniel",
+      "surname": "Pepliński",
+      "exclusions": 0,
+      "goals": 2
+    }
+  ]
+}
